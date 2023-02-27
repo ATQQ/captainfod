@@ -1,20 +1,20 @@
-<h2> Hello ! I'm MiyueFE. <img src="https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/ff0c0bdc7abf6ab23b4a80bb6ba98b7d34bbdc10.gif" width="25"></h2>
+<h2> Hello ! I'm Captian. <img src="https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/ff0c0bdc7abf6ab23b4a80bb6ba98b7d34bbdc10.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
 
 <h3> 👨🏻‍💻 关于我 </h3>
 
-- 2017 年毕业于 重庆邮电大学 网络工程专业.
-- 2019 年正式开始从事前端开发工作.
-- 我目前居住在重庆, 也希望以后能一直在重庆工作和生活.
+- 2018 年毕业于 日本xxx 专业.
+- 2018 年加入掘金社区-至今.
+- 我目前居住在北京.
 
 <h3> 💬 联系我</h3>
 
-[掘金/MiyueFE](https://juejin.cn/user/747323639208391/posts)
+[掘金/MiyueFE](https://juejin.cn/user/3052665287739005)
 
-[微信/MiyueFE](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/c851d0b329d3fd7f5c454bf0fe987884e5e8fd32.jpg)
+[微信/Captian](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/c851d0b329d3fd7f5c454bf0fe987884e5e8fd32.jpg)
 
-[邮箱/913784771@qq.com](mailto:913784771@qq.com)
+[邮箱/nullcatian@icloud.com](mailto:nullcatian@icloud.com)
 
 <p align="left">
 <img src="https://stats.justsong.cn/api/juejin?id=747323639208391&theme=dark" alt="" width="48%" />
@@ -82,11 +82,4 @@
 <img alt='Gitee stars' src='https://gitee.com/miyuesc/vue-data-visualization/badge/star.svg?theme=dark' />
 <img alt='Gitee fork' src='https://gitee.com/miyuesc/vue-data-visualization/badge/fork.svg?theme=dark' />
 </p>
-
-项目列表：
-
-<a href="https://github.com/moon-studio/vite-vue-bpmn-process">![https://github.com/moon-studio/vite-vue-bpmn-process](https://github-readme-stats.vercel.app/api/pin/?username=moon-studio&repo=vite-vue-bpmn-process&show_icons=true&locale=en)</a>
-<a href="https://github.com/miyuesc/bpmn-process-designer">![https://github.com/miyuesc/bpmn-process-designer](https://github-readme-stats.vercel.app/api/pin/?username=miyuesc&repo=bpmn-process-designer&show_icons=true&locale=cn)</a>
-<a href="https://github.com/miyuesc/vue-data-visualization">![https://github.com/miyuesc/vue-data-visualization](https://github-readme-stats.vercel.app/api/pin/?username=miyuesc&repo=vue-data-visualization&show_icons=true&locale=cn)</a>
-<a href="https://github.com/miyuesc/blog">![https://github.com/miyuesc/blog](https://github-readme-stats.vercel.app/api/pin/?username=miyuesc&repo=blog&show_icons=true&locale=cn)</a>
 
