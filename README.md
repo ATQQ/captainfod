@@ -1,4 +1,4 @@
-<h2> Hello ! I'm MiyueFE. <img src="https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/ff0c0bdc7abf6ab23b4a80bb6ba98b7d34bbdc10.gif" width="25"></h2>
+<h2> Hello ! I'm Captain. <img src="https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/ff0c0bdc7abf6ab23b4a80bb6ba98b7d34bbdc10.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/>
 
@@ -10,11 +10,11 @@
 
 <h3> 💬 联系我</h3>
 
-[掘金/MiyueFE](https://juejin.cn/user/747323639208391/posts)
+[掘金/Captain](https://juejin.cn/user/747323639208391/posts)
 
-[微信/MiyueFE](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/c851d0b329d3fd7f5c454bf0fe987884e5e8fd32.jpg)
+[微信/Captain](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/c851d0b329d3fd7f5c454bf0fe987884e5e8fd32.jpg)
 
-[邮箱/913784771@qq.com](mailto:913784771@qq.com)
+[邮箱/nullcaptain@icloud.com](mailto:nullcaptain@icloud.com)
 
 <p align="left">
 <img src="https://stats.justsong.cn/api/juejin?id=747323639208391&theme=dark" alt="" width="48%" />
@@ -51,42 +51,4 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=miyuesc" alt="visitors"/>
 </p>
 
-
-<h3> 🔓 主要开源项目</h3>
-
-项目预览：
-
-[⑴ Bpmn Process Designer：Vue 2 + JS 的 Bpmn 绘制工具](https://miyuesc.github.io/process-designer/)
-
-<p align="left">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/miyuesc/bpmn-process-designer?style=flat&logo=github" />
-<img alt="GitHub stars" src="https://img.shields.io/github/forks/miyuesc/bpmn-process-designer?style=flat&logo=github" />
-<img alt='Gitee stars' src='https://gitee.com/miyuesc/bpmn-process-designer/badge/star.svg?theme=dark' />
-<img alt='Gitee fork' src='https://gitee.com/miyuesc/bpmn-process-designer/badge/fork.svg?theme=dark' />
-</p>
-
-[⑵ Bpmn Process Designer：Vue 3 + TS 的 Bpmn 绘制工具](https://miyuesc.github.io/vite-vue-bpmn-process/)
-
-<p align="left">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/moon-studio/vite-vue-bpmn-process?style=flat&logo=github" />
-<img alt="GitHub fork" src="https://img.shields.io/github/forks/moon-studio/vite-vue-bpmn-process?style=flat&logo=github" />
-<img alt='Gitee stars' src='https://gitee.com/miyuesc/vite-vue-bpmn-process/badge/star.svg?theme=dark' />
-<img alt='Gitee fork' src='https://gitee.com/miyuesc/vite-vue-bpmn-process/badge/fork.svg?theme=dark' />
-</p>
-
-[⑶ Data visualization：Vue 3 自定义大屏可视化项目](https://miyuesc.github.io/data-visualization/)
-
-<p align="left">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/miyuesc/vue-data-visualization?style=flat&logo=github" />
-<img alt="GitHub stars" src="https://img.shields.io/github/forks/miyuesc/vue-data-visualization?style=flat&logo=github" />
-<img alt='Gitee stars' src='https://gitee.com/miyuesc/vue-data-visualization/badge/star.svg?theme=dark' />
-<img alt='Gitee fork' src='https://gitee.com/miyuesc/vue-data-visualization/badge/fork.svg?theme=dark' />
-</p>
-
-项目列表：
-
-<a href="https://github.com/moon-studio/vite-vue-bpmn-process">![https://github.com/moon-studio/vite-vue-bpmn-process](https://github-readme-stats.vercel.app/api/pin/?username=moon-studio&repo=vite-vue-bpmn-process&show_icons=true&locale=en)</a>
-<a href="https://github.com/miyuesc/bpmn-process-designer">![https://github.com/miyuesc/bpmn-process-designer](https://github-readme-stats.vercel.app/api/pin/?username=miyuesc&repo=bpmn-process-designer&show_icons=true&locale=cn)</a>
-<a href="https://github.com/miyuesc/vue-data-visualization">![https://github.com/miyuesc/vue-data-visualization](https://github-readme-stats.vercel.app/api/pin/?username=miyuesc&repo=vue-data-visualization&show_icons=true&locale=cn)</a>
-<a href="https://github.com/miyuesc/blog">![https://github.com/miyuesc/blog](https://github-readme-stats.vercel.app/api/pin/?username=miyuesc&repo=blog&show_icons=true&locale=cn)</a>
 
