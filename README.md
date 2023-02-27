@@ -12,16 +12,16 @@
 
 <h3> 💬 联系我</h3>
 
-[掘金/Captain](https://juejin.cn/user/747323639208391/posts)
+[掘金/Captain](https://juejin.cn/user/3052665287739005)
 
-[微信/Captain](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/c851d0b329d3fd7f5c454bf0fe987884e5e8fd32.jpg)
+[微信/Captain](https://juejin.cn/user/3052665287739005)
 
-[邮箱/nullcaptain@icloud.com](mailto:nullcaptain@icloud.com)
+[邮箱/captainzb@qq.com](mailto:captainzb@qq.com)
 
 <p align="left">
 <img src="https://stats.justsong.cn/api/juejin?id=3052665287739005&theme=dark" alt="" width="48%" />
 
-<img src="https://stats.justsong.cn/api/github?username=miyuesc&theme=dark" alt="" width="48%" />
+<img src="https://stats.justsong.cn/api/github?username=captainfod&theme=dark" alt="" width="48%" />
 </p>
 
 <p align="left">
