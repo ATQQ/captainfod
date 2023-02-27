@@ -4,9 +4,11 @@
 
 <h3> 👨🏻‍💻 关于我 </h3>
 
-- 2017 年毕业于 重庆邮电大学 网络工程专业.
-- 2019 年正式开始从事前端开发工作.
-- 我目前居住在重庆, 也希望以后能一直在重庆工作和生活.
+- 2018 年毕业于 大脚盆帝国xx大学 xx专业.
+- 2018 年正式工作.
+- 2019 年从事技术编辑.
+- 2020 年回到掘金，至今.
+- 我目前居住在北京.
 
 <h3> 💬 联系我</h3>
 
@@ -17,19 +19,19 @@
 [邮箱/nullcaptain@icloud.com](mailto:nullcaptain@icloud.com)
 
 <p align="left">
-<img src="https://stats.justsong.cn/api/juejin?id=747323639208391&theme=dark" alt="" width="48%" />
+<img src="https://stats.justsong.cn/api/juejin?id=3052665287739005&theme=dark" alt="" width="48%" />
 
 <img src="https://stats.justsong.cn/api/github?username=miyuesc&theme=dark" alt="" width="48%" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=miyuesc&theme=radical&show_icons=true&include_all_commits=true" alt="Stats" width="54%" />
+<img src="https://github-readme-stats.vercel.app/api?username=captainfod&theme=radical&show_icons=true&include_all_commits=true" alt="Stats" width="54%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyuesc&layout=compact&theme=radical" alt="Top Langs" width="44%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainfod&layout=compact&theme=radical" alt="Top Langs" width="44%" />
 </p>
 
 <!-- GitHub奖杯🏆 -->
-<a href="#gh-light-mode-only"><img align="center" src="https://github-profile-trophy.vercel.app/?username=miyuesc&row=1&column=6&no-bg=true" /></a>
+<a href="#gh-light-mode-only"><img align="center" src="https://github-profile-trophy.vercel.app/?username=captainfod&row=1&column=6&no-bg=true" /></a>
 
 <h3> 🔧 技术栈与工具</h3>
 
